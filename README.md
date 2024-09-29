@@ -10,7 +10,7 @@ Java: The programming language used for development.
 Create, Read, Update, and Delete (CRUD) tasks
 
 ## Prerequisites
-Java 11 or higher
+Java 21
 Maven
 
 ## How to Run the Project
